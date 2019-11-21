@@ -24,6 +24,7 @@
 						name="userPassword" maxlength="20">
 					</div>
 					<input type="submit" class="btn btn-primary form-control" value="로그인" style="background-color:#6495ED">
+					<input type="checkbox" value="check" style="text-align:left; margin-top:10px">로그인 저장
 				</form>
 			</div>
 		</div>
